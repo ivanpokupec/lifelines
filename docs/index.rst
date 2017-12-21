@@ -11,7 +11,7 @@
 Lifelines
 =====================================
 
-*lifelines* is a implementation of survival analysis in Python. What
+*lifelines* is an implementation of survival analysis in Python. What
 benefits does *lifelines* offer over other survival analysis
 implementations?
 
@@ -38,7 +38,7 @@ Contents:
 Installation
 ------------------------------
 
-Dependencies are from the typical Python data-stack: Numpy, Pandas, Scipy, and optionally Matplotlib. Install using:
+The dependencies are from the typical Python data-stack: Numpy, Pandas, Scipy, and optionally Matplotlib. Install using:
 
     pip install lifelines
 
